@@ -1,5 +1,7 @@
 # 👋 Hey there, I'm Sahar!
 
+![Coding Robot](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 ### 💻 About Me
 Passionate web developer & Python enthusiast.  
 I love building clean, responsive, and interactive web experiences.
