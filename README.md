@@ -1,3 +1,6 @@
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SaharMomeni.SaharMomeni)
+![GitHub followers](https://img.shields.io/github/followers/SaharMomeni?label=Followers&style=social)
+
 # 👋 Hey there, I'm Sahar!
 
 
