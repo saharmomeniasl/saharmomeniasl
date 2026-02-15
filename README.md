@@ -1,9 +1,3 @@
-<svg width="200" height="50" viewBox="0 0 200 50">
-  <rect x="0" y="20" width="10" height="10" fill="lime">
-    <animate attributeName="x" from="0" to="190" dur="2s" repeatCount="indefinite"/>
-  </rect>
-</svg>
-
 # 👋 Hey there, I'm Sahar!
 
 
