@@ -23,9 +23,5 @@ I love building clean, responsive, and interactive web experiences.
 - [GitHub](https://github.com/saharmomeniasl)  
 - [Email](mailto:saharmomo8419@gmail.com)
 
-
-
-## 🕒 WakaTime Stats
-
 <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<!--END_SECTION
