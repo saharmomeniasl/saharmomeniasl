@@ -1,9 +1,5 @@
 
-# 👋 Hey there, I'm Sahar!
-
-<p align="center">
-🌸✨🐰🎀🧸💖
-</p>
+# 👋 Hey there, I'm Sahar!🌸✨🐰🎀🧸💖
 
 ### 💻 About Me
 Passionate web developer & Python enthusiast.  
