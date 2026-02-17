@@ -1,7 +1,7 @@
 
-# 👋 Hey there, I'm Sahar!🌸✨🐰🎀🧸💖
+# 👋 Hey there, I'm Sahar!🌸✨🎀
 
-### 💻 About Me
+### 💻 About Me💖
 Passionate web developer & Python enthusiast.  
 I love building clean, responsive, and interactive web experiences.
 
