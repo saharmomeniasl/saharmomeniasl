@@ -1,5 +1,4 @@
-<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/85027dff-f6e7-4b38-8a34-598bb4ee93ea" />
-
+<img width="800" height="130" alt="image" src="https://github.com/user-attachments/assets/85027dff-f6e7-4b38-8a34-598bb4ee93ea" />
 # 👋 Hey there, I'm Sahar!🌸✨🎀
 
 ### 💻 About Me💖
