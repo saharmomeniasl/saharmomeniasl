@@ -1,3 +1,17 @@
+<!-- Cute Girl Profile Block -->
+<p align="center">
+  <svg width="120" height="120" viewBox="0 0 24 24" fill="pink" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="12" cy="12" r="10" stroke="purple" stroke-width="2"/>
+    <circle cx="8" cy="10" r="1.5" fill="white"/>
+    <circle cx="16" cy="10" r="1.5" fill="white"/>
+    <path d="M8 16 C 12 20, 16 20, 16 16" stroke="white" stroke-width="2" fill="none"/>
+  </svg>
+</p>
+
+<p align="center">
+🌸✨🐰🎀🧸💖🩷
+</p>
+
 # 👋 Hey there, I'm Sahar!
 
 
