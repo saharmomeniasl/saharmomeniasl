@@ -1,5 +1,4 @@
-![Uploading your_cool_intro (1).gif…]()
-
+<img width="800" height="150" alt="image" src="https://github.com/user-attachments/assets/1b1d1a26-84a3-4bd0-9e53-f9ef1905a2a4" />
 
 # 👋 Hey there, I'm Sahar!🌸✨🎀
 
