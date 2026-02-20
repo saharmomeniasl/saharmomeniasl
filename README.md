@@ -5,6 +5,7 @@
 ### 💻 About Me💖
 Passionate web developer & Python enthusiast.  
 I love building clean, responsive, and interactive web experiences.
+
 🎨 I create clean, responsive web pages with HTML, CSS, JavaScript & Bootstrap,
 and I use Python to automate tasks and build small logic-driven projects.
 
