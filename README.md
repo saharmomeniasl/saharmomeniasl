@@ -7,7 +7,7 @@ Passionate web developer & Python enthusiast.
 I love building clean, responsive, and interactive web experiences.
 
 - 🎨 I create clean, responsive web pages with HTML, CSS, JavaScript & Bootstrap,
-- and I use Python to automate tasks and build small logic-driven projects.
+- 🌱I use Python to automate tasks and build small logic-driven projects.
 
 ### 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
